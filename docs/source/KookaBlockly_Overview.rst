@@ -231,10 +231,29 @@ and drag it until the script is conveniently positioned.
     :width: 50
     :height: 50
     :align: center
-    :alt: Target Icons
+    :alt: Target icon
 
+This icon centres the graphical display that is in the current workspace.  
+Hover the cursor over the icon and click the mouse.  The workspace graphical blocks will be centred.
 
-    
+.. image:: images/Zoom_Icon.png
+    :width: 50
+    :height: 100
+    :align: center
+    :alt: Zoom icon
+
+This icon allows the user to zoom in or out on graphical blocks.  It can be used in conjunction with the sliders to 
+position blocks in the workspace.  Alternatively use the wheel on the mouse to zoom in and out.
+
+.. image:: images/Recycle_Icon.png
+    :width: 50
+    :height: 50
+    :align: center
+    :alt: Recycle Bin icon
+
+This is the Recycle Bin icon.  KookaBlockly blocks can be dragged and dropped 	into the bin 	to delete them.  
+Blocks remain in and can be retrieved from the Recycle Bin by dragging 	until KookaBlockly is closed.
+
 
 
 
