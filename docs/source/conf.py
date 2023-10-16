@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'KookaBlockly Template'
-copyright = '2023, AustSTEM'
+project = 'KookaBlockly'
+copyright = 'Julian Dinsdale Tony Strasser'
 author = 'Julian Dinsdale and Tony Strasser'
 
 release = '0.1'
