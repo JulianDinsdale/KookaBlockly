@@ -1,3 +1,2 @@
-# KookaBlockly
-KookaBlockly Reference Documentation
-This repository contains reference documentation for KookaBlockly
+# AustSTEM Documents Template
+ Template repository for AustSTEM Read the Docs documents.
