@@ -119,10 +119,18 @@ This button allows a user to save a script that is in the Workspace.  Move the c
 mouse and the following will be displayed:
 
 .. image:: images/Save.png
-    :width: 400
+    :width: 300
     :height: 200
     :align: center
     :alt: Save screen pane
+
+The default directory is  /KookaberryScripts/KookaBlockly within the current user’s account and the user may navigate 
+away from this as desired.  After typing in a name for the script, or clicking on a pre-existing script to be overwritten, 
+then pressing Save the KookaBlockly script will be saved in the selected directory.  Note:  In saving a KookaBlockly script 
+KookaBlockly will add a .kby to the file identify the file as one that can be loaded onto KookaBlockly.  A typical file name 
+could then be say test.kby.py
+
+
 
 
 
