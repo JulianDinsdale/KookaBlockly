@@ -62,14 +62,16 @@ Run KookaBlockly on your computer and the following screen display will be prese
             on the left-hand side of the display.  With the second area comprising, display and script 
             loading commands on the right-hand side of the display.
 
+            With the second area comprising, display and script loading commands on the right-hand side of the display.
+
+
 .. image:: images/Command_Buttons_left.png
     :alt:  Command Buttons left-hand
     :width: 500
     :height: 150
     :align: center
                  
-            With the second area comprising, display and script loading commands on the right-hand side of the display.
-
+            
 .. image:: images/Command_Buttons_Right.png
     :alt:  Command Buttons right-hand
     :width: 500
