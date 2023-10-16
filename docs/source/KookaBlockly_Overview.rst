@@ -85,10 +85,14 @@ The individual button controls are described in the following paragraphs
 This button starts a new script and any script on the display will be cleared. Move the cursor 
 to this button, press click on the mouse and the following will be displayed.
 
+.. image:: images/Start_New_Pgm.png
+    :width: 300
+    :height: 150
+    :align: center
+    :alt: Start New Program ?
 
-
-
-
+Press Yes to start a new script / program or No to revert.  Caution - this will erase the current workspace and any 
+work not saved will be lost.  Please be careful to save any work that is to be retained.
 
 
 
