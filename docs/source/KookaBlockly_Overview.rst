@@ -12,7 +12,7 @@ Installing KookaBlockly
 -----------------------
 
 KookaBlockly runs as a stand-alone program on a Windows 10 or MAC based personal computer.  
-The latest version of KookaSuite, which includes KookaBlockly,  KookaBlockly can be downloaded 
+The latest version of KookaSuite, which includes KookaBlockly, can be downloaded 
 from the Kookaberry Github repository - 
 https://github.com/Kookaberry
 
@@ -38,4 +38,19 @@ concepts such as program controls (activation, termination, loops and decisions)
 computations (variables, values, mathematical and logical expressions).  This graphical process allows 
 users to apply programming concepts and principles to designing scripts or programs without having to be 
 concerned about the syntax and semantics of MicroPython.
+
+
+Using KookaBlockly
+------------------
+
+**Download KookaSuite** 
+
+Download KookaSuite from the GitHub repository and install on a Windows 10 or 11 PC or on a MAC.
+
+**User Screen Display**
+
+Run KookaBlockly on your computer and the following screen display will be presented.
+
+
+
 
