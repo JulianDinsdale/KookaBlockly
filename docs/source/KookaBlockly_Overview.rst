@@ -64,6 +64,15 @@ Run KookaBlockly on your computer and the following screen display will be prese
     :alt:  Command Buttons left-hand
     :width: 640px
 
+                        With the second area comprising, display and script loading commands on the right-hand side
+                        of the display.
+
+.. image:: images/Command_Buttons_Right.png
+    :alt:  Command Buttons right-hand
+    :width:  640px
+
+    
+
 
 
 
