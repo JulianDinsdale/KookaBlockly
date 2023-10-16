@@ -57,9 +57,10 @@ Run KookaBlockly on your computer and the following screen display will be prese
 
 *Revision Level*    -   The Revision Level of KookaBlockly is shown at the top left-hand side of the display
 
-*Task Bar*          -   The Task bar is divided into two areas.  The first area comprises script command buttons 
-                        on the left-hand side of the display.  With the second area comprising, display and script 
-                        loading commands on the right-hand side of the display.
+*Task Bar*     
+            The Task bar is divided into two areas.  The first area comprises script command buttons 
+            on the left-hand side of the display.  With the second area comprising, display and script 
+            loading commands on the right-hand side of the display.
 
 .. image:: images/Command_Buttons_left.png
     :alt:  Command Buttons left-hand
@@ -67,6 +68,7 @@ Run KookaBlockly on your computer and the following screen display will be prese
     :height: 150
     :align: center
                  
+            With the second area comprising, display and script loading commands on the right-hand side of the display.
 
 .. image:: images/Command_Buttons_Right.png
     :alt:  Command Buttons right-hand
