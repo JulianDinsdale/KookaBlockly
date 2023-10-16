@@ -136,7 +136,7 @@ This button allows a user to print a script that is in the current Workspace.  M
 click on the mouse and the following will be displayed.
 
 .. image:: images/Print_Display.png
-    :width: 300
+    :width: 350
     :height: 300
     :align: center
     :alt: Print display pane
@@ -165,8 +165,51 @@ selected will be automatically selected via the operating system of your compute
 If, on rare occasions, the Kookaberry becomes unresponsive, click on the drop-down list and select the Auto-connect 
 option to cause the connection to be renewed.
 
+**Scripts** pane and drop down lists
 
+Press the down arrow in the Scripts pane and select from the available folders. Scripts is the default folder and 
+users may create additional folders.
 
+.. image:: images/Scripts_Folders.png
+    :width: 350
+    :height: 300
+    :align: center
+    :alt: Scripts folder dropdown selection
+
+The pane to the right of the Scripts folder selection gives access to available scripts
+
+.. image:: images/Scripts_Avail.png
+    :width: 350
+    :height: 300
+    :align: center
+    :alt: Available scripts drop down menu selection
+
+Pressing the down arrow shows the available scripts that may be downloaded to the KookaBlockly Workspace.  Moving the 
+cursor over the desired script and clicking will load the selected KookaBlockly script to the KookaBlockly workspace.  
+The loaded KookaBlockly script will replace the contents of the current Workspace.  Please ensure that any unsaved work is 
+saved prior to using the Scripts list to load.  This behaviour differs from using the Load button where the KookaBlockly 
+is added to the current workspace.
+
+**Show Script** button
+
+This button allows a user to display the MicroPython script generated from the graphical script that is in the KookaBlockly 
+workspace.  Move the cursor to this button and press click on the mouse and the MicroPython script will be displayed.  
+The size of the display pane showing the script can be adjusted by clicking on and dragging the edges of the script window 
+using the cursor.
+
+**Show Display** button
+
+This button allows the user to show what is being displayed on the attached Kookaberry’s display in a small pane on the 
+computer’s display.  Move the cursor to this button, press click on the mouse and the display will appear on the computer 
+in a separate window.  The size of this window can be adjusted by the user by clicking on and dragging the window edges 
+using the cursor.
+
+Buttons A, B, C and D replicate the buttons on the Kookaberry and may be used on the Display to in a similar manner to 
+the Kookaberry.
+
+The Kookaberry Reset button performs a software reset to the Kookaberry.
+
+The Kookaberry Menu displays the internal Kookaberry menu
 
 
 
