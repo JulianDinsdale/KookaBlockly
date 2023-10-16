@@ -268,8 +268,8 @@ Some categories contain standard Blockly blocks whilst others contain blocks spe
 The *Categories** may be summarised as follows:
 
 .. image:: images/Category_List.png
-    :width: 100
-    :height: 400
+    :width: 200
+    :height: 300
     :align: center
     :alt: Category list
 
