@@ -238,7 +238,7 @@ Hover the cursor over the icon and click the mouse.  The workspace graphical blo
 
 .. image:: images/Zoom_Icon.png
     :width: 50
-    :height: 100
+    :height: 70
     :align: center
     :alt: Zoom icon
 
@@ -246,8 +246,8 @@ This icon allows the user to zoom in or out on graphical blocks.  It can be used
 position blocks in the workspace.  Alternatively use the wheel on the mouse to zoom in and out.
 
 .. image:: images/Recycle_Icon.png
-    :width: 50
-    :height: 50
+    :width: 80
+    :height: 80
     :align: center
     :alt: Recycle Bin icon
 
