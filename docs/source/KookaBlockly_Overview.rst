@@ -41,13 +41,15 @@ concerned about the syntax and semantics of MicroPython.
 
 
 Using KookaBlockly
-------------------
+==================
 
 **Download KookaSuite** 
+-----------------------
 
 Download KookaSuite from the GitHub repository and install on a Windows 10 or 11 PC or on a MAC.
 
 **User Screen Display**
+-----------------------
 
 Run KookaBlockly on your computer and the following screen display will be presented.
 
@@ -255,7 +257,21 @@ This is the Recycle Bin icon.  KookaBlockly blocks can be dragged and dropped 	i
 Blocks remain in and can be retrieved from the Recycle Bin by dragging 	until KookaBlockly is closed.
 
 
+**Categories**
 
+There are a number of **Categories** of blocks located on the left hand side of the KookaBlockly workspace.  These Categories contain 
+**blocks** that can be selected and placed in the Workspace.
+
+A **Category** can be selected by placing the cursor over the Category and making a single click.
+Some categories contain standard Blockly blocks whilst others contain blocks specific to the Kookaberry
+
+The *Categories** may be summarised as follows:
+
+.. image:: images/Category_List.png
+    :width: 100
+    :height: 400
+    :align: center
+    :alt: Category list
 
 
 
