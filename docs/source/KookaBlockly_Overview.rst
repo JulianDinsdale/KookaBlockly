@@ -212,8 +212,29 @@ The Kookaberry Reset button performs a software reset to the Kookaberry.
 The Kookaberry Menu displays the internal Kookaberry menu
 
 
+*Workspace*
+
+The Workspace is the area where the graphical blocks are dragged and dropped to.  A MicroPython script is automatically 
+generated from the graphical blocks in the Workspace.
+
+*Sliders*
+
+Sliders are on the bottom and the right-hand side of the KookaBlockly display and can be used with the mouse to reposition 
+the blocks on the KookaBlockly display. An alternative method is to click the cursor on a blank area in the workspace 
+and drag it until the script is conveniently positioned.
 
 
+
+*Icons* located on bottom right of the workspace
+
+.. image:: images/Target_Icon.png
+    :width: 50
+    :height: 50
+    :align: center
+    :alt: Target Icons
+
+
+    
 
 
 
