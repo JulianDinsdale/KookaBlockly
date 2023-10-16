@@ -180,7 +180,7 @@ The pane to the right of the Scripts folder selection gives access to available 
 
 .. image:: images/Scripts_Avail.png
     :width: 350
-    :height: 300
+    :height: 150
     :align: center
     :alt: Available scripts drop down menu selection
 
