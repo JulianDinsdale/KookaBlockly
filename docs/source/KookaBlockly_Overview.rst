@@ -137,7 +137,7 @@ click on the mouse and the following will be displayed.
 
 .. image:: images/Print_Display.png
     :width: 300
-    :height: 400
+    :height: 300
     :align: center
     :alt: Print display pane
 
