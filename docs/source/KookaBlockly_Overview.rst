@@ -51,10 +51,22 @@ Download KookaSuite from the GitHub repository and install on a Windows 10 or 11
 
 Run KookaBlockly on your computer and the following screen display will be presented.
 
-
 .. image:: images/KB_Init_Display.png
     :alt:  Initial Display
     :width: 640px
+
+*Revision Level*    -   The Revision Level of KookaBlockly is shown at the top left-hand side of the display
+
+*Task Bar*          -   The Task bar is divided into two areas.  The first area comprises script command buttons 
+                        on the left-hand side of the display 
+
+.. image:: images/Command_Buttons_left.png
+    :alt:  Command Buttons left-hand
+    :width: 640px
+
+
+
+
 
 
 
