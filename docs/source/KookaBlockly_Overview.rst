@@ -81,9 +81,11 @@ Run KookaBlockly on your computer and the following screen display will be prese
 The individual button controls are described in the following paragraphs
 
 **New** button     
-~~~~~~~~~~~~~~
 This button starts a new script and any script on the display will be cleared. Move the cursor 
 to this button, press click on the mouse and the following will be displayed.
+
+
+
 
 
 
