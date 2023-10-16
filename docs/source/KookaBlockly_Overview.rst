@@ -52,5 +52,12 @@ Download KookaSuite from the GitHub repository and install on a Windows 10 or 11
 Run KookaBlockly on your computer and the following screen display will be presented.
 
 
+.. image:: images/KB_Init_Display.png
+    :alt:  Initial Display
+    :width: 640px
+
+
+
+
 
 
