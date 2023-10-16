@@ -91,8 +91,27 @@ to this button, press click on the mouse and the following will be displayed.
     :align: center
     :alt: Start New Program ?
 
-Press Yes to start a new script / program or No to revert.  Caution - this will erase the current workspace and any 
+Press **Yes** to start a new script / program or **No** to revert.  Caution - this will erase the current workspace and any 
 work not saved will be lost.  Please be careful to save any work that is to be retained.
+
+**Load** button
+
+This button allows the user to select a KookaBlockly program to be loaded into the Workspace.  Move the cursor to this 
+button, press click on the mouse and the following file dialogue will be displayed:
+
+.. image:: images/Load_Display.png
+    :width: 400
+    :height: 200
+    :align: center
+    :alt: Load button display
+
+The default directory within the current user’s account is /KookaberryScripts/KookaBlockly and the user can navigate away 
+from this as desired.  Selecting a script and pressing the Open button, or alternatively double-clicking on a selected 
+KookaBlockly script will place a copy of that script in the KookaBlockly Workspace from where it can be modified, saved 
+and run on the Kookaberry.
+
+If the workspace is not empty, and KookaBlockly loaded will be added to the current workspace.  This is useful where 
+frequently used snippets of KookaBlockly are stored away in their own script files for reuse in other scripts.
 
 
 
