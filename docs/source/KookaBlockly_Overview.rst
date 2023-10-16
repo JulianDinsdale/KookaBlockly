@@ -106,12 +106,27 @@ button, press click on the mouse and the following file dialogue will be display
     :alt: Load button display
 
 The default directory within the current user’s account is /KookaberryScripts/KookaBlockly and the user can navigate away 
-from this as desired.  Selecting a script and pressing the Open button, or alternatively double-clicking on a selected 
+from this as desired.  Selecting a script and pressing the **Open** button, or alternatively double-clicking on a selected 
 KookaBlockly script will place a copy of that script in the KookaBlockly Workspace from where it can be modified, saved 
 and run on the Kookaberry.
 
-If the workspace is not empty, and KookaBlockly loaded will be added to the current workspace.  This is useful where 
-frequently used snippets of KookaBlockly are stored away in their own script files for reuse in other scripts.
+If the workspace is not empty, and new KookaBlockly script is loaded, it will be added to the current workspace.  This is 
+useful where frequently used snippets of KookaBlockly are stored away in their own script files for reuse in other scripts.
+
+**Save** button
+
+This button allows a user to save a script that is in the Workspace.  Move the cursor to this button, press click on the 
+mouse and the following will be displayed:
+
+.. image:: images/Save.png
+    :width: 400
+    :height: 200
+    :align: center
+    :alt: Save screen pane
+
+
+
+
 
 
 
