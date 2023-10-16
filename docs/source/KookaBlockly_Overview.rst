@@ -130,6 +130,41 @@ then pressing Save the KookaBlockly script will be saved in the selected directo
 KookaBlockly will add a .kby to the file identify the file as one that can be loaded onto KookaBlockly.  A typical file name 
 could then be say test.kby.py
 
+**Print** button
+
+This button allows a user to print a script that is in the current Workspace.  Move the cursor to this button, press 
+click on the mouse and the following will be displayed.
+
+.. image:: images/Print_Display.png
+    :width: 300
+    :height: 200
+    :align: center
+    :alt: Print display pane
+
+A printer may now be selected and the script printed.
+Note - only the visible area of the workspace will be printed.  Zoom the view of the KookaBlockly script in or out to 
+size it appropriately for printing.  The Print dialogue provides a preview of the page to be printed.
+
+**Run** button
+
+This button allows a user to run a script that is in the current Workspace on the attached Kookaberry.  Move the cursor 
+to this button, ensure that a Kookaberry is connected via the USB port, press click on the mouse and the script will 
+be sent to the Kookaberry and run.
+
+**Stop** button
+
+This button allows a user to Stop a script that is currently running on the Kookaberry.  Move the cursor to this button, 
+press click on the mouse and the currently running script on the Kookaberry will stop.
+
+**Serial** pane and drop down list
+
+This display shows whether a Kookaberry is connected to the USB port of the computer and the serial port being used.  
+“Auto-connect” shows that the PC / KookaBlockly is waiting for a Kookaberry to be connected to the USB port.  When a 
+Kookaberry is connected the Serial: will show the com: port connection such as Kookaberry on \\.\COM8.  The com: port 
+selected will be automatically selected via the operating system of your computer.
+If, on rare occasions, the Kookaberry becomes unresponsive, click on the drop-down list and select the Auto-connect 
+option to cause the connection to be renewed.
+
 
 
 
