@@ -1,12 +1,12 @@
 """""""""""""""""""""
-Title of the Document
+**KookaBlockly**
 """""""""""""""""""""
 
 
 
 .. note::
 
-   This is only a template!
+   This document is under active development
 
 Contents
 --------
@@ -24,4 +24,6 @@ Contents
 
    Kookaberry and Kooka are trademarks of Kookaberry Pty Ltd, Australia.
 
-   The Kooka Firmware release v1.9.0 and KookaSuite have been written by Damien George (George Electronics Pty Ltd – MicroPython) in collaboration with Kookaberry Pty Ltd and the AustSTEM Foundation Ltd.
+   KookaSuite which includes KookaIDE and KookaBlockly has been written by Damien George 
+   (George Electronics Pty Ltd – MicroPython) in collaboration with Kookaberry Pty Ltd 
+   and the AustSTEM Foundation Ltd.
