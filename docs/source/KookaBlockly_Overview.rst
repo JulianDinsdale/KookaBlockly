@@ -176,7 +176,7 @@ users may create additional folders.
 
 .. image:: images/Scripts_Folders.png
     :width: 350
-    :height: 300
+    :height: 200
     :align: center
     :alt: Scripts folder dropdown selection
 
