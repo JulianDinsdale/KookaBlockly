@@ -176,7 +176,7 @@ users may create additional folders.
 
 .. image:: images/Scripts_Folders.png
     :width: 350
-    :height: 200
+    :height: 150
     :align: center
     :alt: Scripts folder dropdown selection
 
@@ -184,7 +184,7 @@ The pane to the right of the Scripts folder selection gives access to available 
 
 .. image:: images/Scripts_Avail.png
     :width: 350
-    :height: 150
+    :height: 250
     :align: center
     :alt: Available scripts drop down menu selection
 
