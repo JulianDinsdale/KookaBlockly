@@ -418,7 +418,7 @@ KookaBlockly contains three basic block shapes:
     :alt: Value Block
 
 
-
+* ****
 
 
         Blocks are selected by first selecting a category and then clicking on a block.  The block will be placed or can 
