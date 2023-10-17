@@ -56,6 +56,7 @@ Run KookaBlockly on your computer and the following screen display will be prese
     :alt:  Initial Display
     :width: 640px
 
+
 *Revision Level* 
 
             The Revision Level of KookaBlockly is shown at the top left-hand side of the display
