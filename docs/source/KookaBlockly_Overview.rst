@@ -364,10 +364,21 @@ useful for structuring and multiple use of repeatable logic.
 The Advanced category provides blocks for importing MicroPython code into KookaBlockly
 
 
+**Using KookaBlockly**
+---------------------
 
+KookaBlockly is a graphical visual editor based upon Google Blockly.  It allows program scripts to be constructed visually 
+by connecting blocks together by users who have little or no programming skills. Blocks are divided into colour-coded 
+categories according to their purpose or function and snap together into sockets like a jigsaw pieces.  The shapes of the 
+blocks vary and not all blocks will snap into a socket of another block.  
 
+If the blocks fit together the scripts will still run and KookaBlockly will generate syntactically correct code.  However 
+logical errors can still arise.
 
+KookaBlockly contains three basic block shapes:
 
+*•	    A C-shaped block directs program flow and contains a sequence of action blocks.  The C-shaped block may be a loop, 
+        or may be a sequence of blocks that are run conditionally subject to one or more logical tests.
 
 
 
