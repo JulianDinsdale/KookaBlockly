@@ -457,6 +457,22 @@ KookaBlockly contains three basic block shapes:
 
 
 
+*       Collapse Block*
+
+        Click on Collapse Block to truncate the block.  This is useful when a large number of blocks are in the workspace 
+        and the user wants to make a block smaller so that it is easier to see other blocks.  The user can restore the 
+        collapsed block at any time
+
+*       Disable Block*
+
+        Click on Disable Block to make the block turn white and it will not be included in the script.  This is similar 
+        to “commenting out” lines of scripts when writing MicroPython code.
+
+*       Delete Block*
+
+        Choose a block by clicking on it.  Right click on the block and then choose Delete Block to delete the block from 
+        the script or press the Delete key on the keyboard.   Blocks can also be deleted by clicking on a block, separating 
+        it from the graphical script and dragging it into the recycle bin.
 
 
 
