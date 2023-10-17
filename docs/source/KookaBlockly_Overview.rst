@@ -381,6 +381,7 @@ KookaBlockly contains three basic block shapes:
 
         A C-shaped block directs program flow and contains a sequence of action blocks. The C-shaped block may be a loop, 
         or may be a sequence of blocks that are run conditionally subject to one or more logical tests.
+        
 .. image:: images/C_Shaped_Block.png
     :width: 400
     :height: 300
