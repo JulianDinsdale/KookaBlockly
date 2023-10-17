@@ -413,7 +413,7 @@ KookaBlockly contains three basic block shapes:
     :alt: Value Block
 
 
-  
+\
         A value block which has a jigsaw tab on the left-hand edge.  These blocks evaluate an expression and assign an 
         output value to the blocks to which they are connected.  Some value blocks have a matching receptacle on the 
         right-hand edge which accepts other value blocks.
