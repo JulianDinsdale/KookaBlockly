@@ -378,6 +378,9 @@ logical errors can still arise.
 KookaBlockly contains three basic block shapes:
 
 
+* A Bullet point
+
+
 
 
 
