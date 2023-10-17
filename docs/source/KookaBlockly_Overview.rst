@@ -383,8 +383,8 @@ KookaBlockly contains three basic block shapes:
         or may be a sequence of blocks that are run conditionally subject to one or more logical tests.
 
 .. image:: images/C_Shaped_Block.png
-    :width: 300
-    :height: 130
+    :width: 400
+    :height: 160
     :align: center
     :alt: C Shaped Blocks
 
