@@ -365,7 +365,7 @@ The Advanced category provides blocks for importing MicroPython code into KookaB
 
 
 **Using KookaBlockly**
----------------------
+----------------------
 
 KookaBlockly is a graphical visual editor based upon Google Blockly.  It allows program scripts to be constructed visually 
 by connecting blocks together by users who have little or no programming skills. Blocks are divided into colour-coded 
