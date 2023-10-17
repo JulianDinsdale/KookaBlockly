@@ -417,6 +417,10 @@ KookaBlockly contains three basic block shapes:
     :align: center
     :alt: Value Block
 
+
+
+
+
         Blocks are selected by first selecting a category and then clicking on a block.  The block will be placed or can 
         be dragged and dropped into the workspace and can then be moved around via the cursor.   The action is to click 
         on a block and hold the mouse down.  Then drag and drop the block on the workspace.  If the block is close to a 
