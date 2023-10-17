@@ -8,7 +8,6 @@ This document provides a quick overview of KookaBlockly.  More detailed informat
 may be found the KookaBlockly Reference Guide.
 
 
-
 Introduction
 ------------
 
