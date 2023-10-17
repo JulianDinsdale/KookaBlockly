@@ -384,6 +384,17 @@ KookaBlockly contains three basic block shapes:
 
 
 
+.. image:: images/C_Shaped_Block.png
+    :width: 400
+    :height: 200
+    :align: center
+    :alt: C Shaped Blocks
+
+
+
+
+
+
 
 
 
