@@ -388,6 +388,11 @@ KookaBlockly contains three basic block shapes:
     :align: center
     :alt: C Shaped Blocks
 
+* **An action or /"do"/ block**
+
+
+
+
 
 
 
