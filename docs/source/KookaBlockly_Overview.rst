@@ -412,7 +412,7 @@ KookaBlockly contains three basic block shapes:
 
 
 .. image:: images/Value_Block.png
-    :width: 300
+    :width: 400
     :height: 200
     :align: center
     :alt: Value Block
