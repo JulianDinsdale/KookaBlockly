@@ -431,7 +431,7 @@ KookaBlockly contains three basic block shapes:
 
 
 .. image:: images/Management_Block.png
-    :width: 400
+    :width: 300
     :height: 200
     :align: center
     :alt: Management Block
