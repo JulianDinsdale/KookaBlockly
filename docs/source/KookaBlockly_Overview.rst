@@ -397,6 +397,14 @@ KookaBlockly contains three basic block shapes:
 
 
 
+.. image:: images/Action_Block.png
+    :width: 300
+    :height: 200
+    :align: center
+    :alt: Action Block
+
+
+
 
 
 
