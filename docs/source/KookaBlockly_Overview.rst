@@ -389,9 +389,16 @@ KookaBlockly contains three basic block shapes:
     :alt: C Shaped Blocks
 
 
+* **An Action or "do" block**
+  
+        An action or “do” block which performs an operation.  The block has an indent in the top border and a matching 
+        protrusion on the bottom border.  These blocks click together like jigsaw pieces and may be placed in a vertical 
+        column and within a C-shaped block.
 
 
-* **An action or "do" block**
+
+
+
 
 
 
