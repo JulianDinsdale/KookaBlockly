@@ -276,92 +276,92 @@ The *Categories** may be summarised as follows:
     :alt: Category list
 
 
-*Control*
+* *Control*
 
 The Control category mostly contains blocks that are standard within Blockly with the exception of the blocks used to get 
 the Real Time Clock (RTC) information from the Kookaberry.
 
-*Clock*
+* *Clock*
 
 The Clock category allows access to both the internal clock and an external clock based on the DS3231 clock. The internal 
 clock is set to the time set in the PC at the time of running KookaBlockly.  This time may be set and read for use within 
 scripts.  An external clock based on the DS3231 clock may be set and read.
 
-*Display*
+* *Display*
 
 The Display category contains blocks that are used for the Kookaberry display
 
-*Buttons*
+* *Buttons*
 
 The Buttons category contains blocks that are used to control the four buttons, A, B, C and D, on the Kookaberry board.
 
-*LEDs*
+* *LEDs*
 
 The LEDs category contains blocks that are used to control the here LED’s, Red, Orange and Green, on the Kookaberry board.  
 It is also used to control Neopixel LED displays.
 
-*Pins*
+* *Pins*
 
 The Pins category contains blocks that control the I/O pins on connectors P1, P2, P3, P4 and P5 on the Kookaberry board.  
 The blocks facilitate the assignment of GPIO functions to the pins as well as analogue inputs to P1, P2, P4 and P5.  
 Pulse Width Modulation (PWM) may be assigned to the pins on connectors P1, P2, P3, P4 and P5.
 
-*Sensors*
+* *Sensors*
 
 The Sensor category contains blocks that allow for different sensors to be used with the Kookaberry.  The blocks allow 
 usage of the internal accelerometer and compass as well as external connection of DHT11 and 22 temperature and humidity 
 sensors plus a DS18x20 sealed temperature sensor as well as a Negative Temperature Coefficient (NTC) temperature sensor.
 
-*Actuators*
+* *Actuators*
 
 The Actuators category contains a block that allows the connection off a small hobby servo to connectors P1, P2, P4 and P5.
 Both the 180 and 360 degree Hobby Servos are supported.
 
-*Radio*
+* *Radio*
 
 The Radio category contains blocks that allow use of the Nordic nRF51 and nRF52 packet radio.  It also supports the HC-12 
 radio via a serial UART port.
 
-*Logging*
+* *Logging*
 
 The Logging category contains a block that allows for a dat.csv file to be created for the purpose of logging data.  
 The dat.csv file may be displayed on a spread sheet.
 
-*Boolean*
+* *Boolean*
 
 The Boolean category contains blocks that perform standard logical operations of Blockly
 
-*If-Else*
+* *If-Else*
 
 The If-Else category provide the standard logical loop functionality of Blockly. The blocks may be customised by the user.
 
-*Loops*
+* *Loops*
 
 The Loops category provided the standard loop facility of Blockly.
 
-*Strings*
+* *Strings*
 
 The Strings category provides blocks that allow strings to be text, an integer and or a floating point number.
 
-*Lists*
+* *Lists*
 
 The Lists category provides the standard Blockly blocks that a allow working with lists with a list being a set of 
 variable of any type.
 
-*Math*
+* *Math*
 
 The Math category provides blocks that allow working with numbers.  It also provides a block for scaling a number.
 
-*Variables*
+* *Variables*
 
 The Variables category provides a block that allows a user to define a variable
 
-*Functions*
+* *Functions*
 
 The Functions category provided blocks that allow users to create and call functions which can be 
 useful for structuring and multiple use of repeatable logic.
 
-*Advanced*
+* *Advanced*
 
 The Advanced category provides blocks for importing MicroPython code into KookaBlockly
 
