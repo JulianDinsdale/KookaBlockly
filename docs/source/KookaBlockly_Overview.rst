@@ -426,6 +426,7 @@ KookaBlockly contains three basic block shapes:
         Holding the cursor over a block and right clicking the mouse will bring up a menu which allows further management 
         of the block.  The following is an example of such a menu.
 
+
 .. image:: images/Management_Block.png
     :width: 400
     :height: 200
