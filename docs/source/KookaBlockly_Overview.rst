@@ -8,15 +8,6 @@ This document provides a quick overview of KookaBlockly.  More detailed informat
 may be found the KookaBlockly Reference Guide.
 
 
-Installing KookaBlockly
------------------------
-
-KookaBlockly runs as a stand-alone program on a Windows 10 or MAC based personal computer.  
-The latest version of KookaSuite, which includes KookaBlockly, can be downloaded 
-from the Kookaberry Github repository - 
-https://github.com/Kookaberry
-
-
 
 Introduction
 ------------
@@ -40,16 +31,24 @@ users to apply programming concepts and principles to designing scripts or progr
 concerned about the syntax and semantics of MicroPython.
 
 
+Installing KookaBlockly
+-----------------------
+
+KookaBlockly runs as a stand-alone program on a Windows 10 or MAC based personal computer.  
+The latest version of KookaSuite, which includes KookaBlockly, can be downloaded 
+from the Kookaberry Github repository - 
+https://github.com/Kookaberry
+
 Using KookaBlockly
-==================
+------------------
 
 **Download KookaSuite** 
------------------------
+
 
 Download KookaSuite from the GitHub repository and install on a Windows 10 or 11 PC or on a MAC.
 
 **User Screen Display**
------------------------
+
 
 Run KookaBlockly on your computer and the following screen display will be presented.
 
@@ -57,7 +56,9 @@ Run KookaBlockly on your computer and the following screen display will be prese
     :alt:  Initial Display
     :width: 640px
 
-*Revision Level*    -   The Revision Level of KookaBlockly is shown at the top left-hand side of the display
+*Revision Level* 
+
+            The Revision Level of KookaBlockly is shown at the top left-hand side of the display
 
 *Task Bar*     
             The Task bar is divided into two areas.  The first area comprises script command buttons 
