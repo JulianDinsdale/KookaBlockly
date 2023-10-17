@@ -377,7 +377,9 @@ logical errors can still arise.
 
 KookaBlockly contains three basic block shapes:
 
-* A C-shaped block directs program flow and contains a sequence of action blocks.
+* *A C-shaped block*
+
+A C-shaped block directs program flow and contains a sequence of action blocks.
 
 
 
