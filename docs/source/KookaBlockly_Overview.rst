@@ -405,7 +405,11 @@ KookaBlockly contains three basic block shapes:
 
 * **A Value block**
 
-        
+        A value block which has a jigsaw tab on the left-hand edge.  These blocks evaluate an expression and assign an 
+        output value to the blocks to which they are connected.  Some value blocks have a matching receptacle on the 
+        right-hand edge which accepts other value blocks.
+
+
 .. image:: images/Value_Block.png
     :width: 400
     :height: 200
@@ -413,10 +417,8 @@ KookaBlockly contains three basic block shapes:
     :alt: Value Block
 
 
--
-        A value block which has a jigsaw tab on the left-hand edge.  These blocks evaluate an expression and assign an 
-        output value to the blocks to which they are connected.  Some value blocks have a matching receptacle on the 
-        right-hand edge which accepts other value blocks.
+* **Block Selection**
+        
 
         Blocks are selected by first selecting a category and then clicking on a block.  The block will be placed or can 
         be dragged and dropped into the workspace and can then be moved around via the cursor.   The action is to click 
