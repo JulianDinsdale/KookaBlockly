@@ -55,6 +55,7 @@ Run KookaBlockly on your computer and the following screen display will be prese
 .. image:: images/KB_Init_Display.png
     :alt:  Initial Display
     :width: 640px
+    :align: center
 
 
 * *Revision Level* 
@@ -475,6 +476,8 @@ KookaBlockly contains three basic block shapes:
         Choose a block by clicking on it.  Right click on the block and then choose Delete Block to delete the block from 
         the script or press the Delete key on the keyboard.   Blocks can also be deleted by clicking on a block, separating 
         it from the graphical script and dragging it into the recycle bin.
+
+
 
 
 
