@@ -70,7 +70,7 @@ Run KookaBlockly on your computer and the following screen display will be prese
             With the second area comprising, display and script loading commands on the right-hand side of the display.
 
 
-.. image:: images/Command_Buttons_left.png
+.. image:: images/Command_Buttons_leftB.png
     :alt:  Command Buttons left-hand
     :width: 500
     :align: center
