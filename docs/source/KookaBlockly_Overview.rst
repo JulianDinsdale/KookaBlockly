@@ -73,7 +73,6 @@ Run KookaBlockly on your computer and the following screen display will be prese
 .. image:: images/Command_Buttons_left.png
     :alt:  Command Buttons left-hand
     :width: 500
-    :height: 150
     :align: center
                  
             
